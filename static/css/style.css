@@ -50,8 +50,10 @@ a:hover, a:focus, a:active {
   background: #1f76bd;
 }
 .navbar-main .navbar-brand {
+  /* float: left; */
   border-bottom: none !important;
 }
+
 .navbar-main a:hover,
 .navbar-main a:active,
 .navbar-main a:focus,
